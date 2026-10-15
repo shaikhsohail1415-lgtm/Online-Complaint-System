@@ -27,7 +27,7 @@ Local Setup
 4. Import the SQL file from the project's database folder, if provided.
 5. Configure "db.php" with your local database settings.
 6. Start Apache and MySQL.
-7. Open "http://localhost:8080/online-complaint-system/" in your browser.
+7. Open "http://localhost:8080/onlineComplaintSystem/" in your browser.
 
 **Note**
 
