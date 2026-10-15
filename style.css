@@ -1,0 +1,27 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Main heading */
+h1 {
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+/* Paragraph */
+.lead {
+    color: #555;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 6px;
+    padding: 10px 22px;
+}
+
+/* Navigation bar */
+.navbar-brand {
+    font-weight: bold;
+}
