@@ -17,7 +17,7 @@
 </nav>
 
 <div class="container text-center mt-5">
-    <h1>Welcome to Online Complaint Registration System</h1>
+    <h1>Welcome to Online Complaint System</h1>
     <p class="lead">Register your complaints and track their status online.</p>
 
     <a href="register.php" class="btn btn-primary m-2">Register</a>
